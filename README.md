@@ -17,5 +17,5 @@ Tools for converting conchars to images and vice versa.
 7. Look for palette.lmp.
 9. Once found right click on it then click on "Palette > Export As".
 9. Change the file type to ".png" and change name to "palette.png".
-10. Put it in the folder where you downloaded Quake Conchar Tools.
-11. [Run the script.](https://docs.python.org/3/faq/windows.html#how-do-i-run-a-python-program-under-windows)
+10. Put it in the extracted folder from the Quake Conchar Tools zip file.
+11. [Run one of the scripts.](https://docs.python.org/3/faq/windows.html#how-do-i-run-a-python-program-under-windows)
