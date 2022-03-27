@@ -3,6 +3,7 @@ Tools for converting conchars to images and vice versa.
 
 # Prerequisites
 [Python 3](https://www.python.org/)
+
 [Pillow Install Guide](https://pillow.readthedocs.io/en/stable/installation.html)
 
 # Instructions
