@@ -24,11 +24,11 @@ palette.close()
 
 pixels = im.load()
 
-with open("conchars.lmp", "rb") as fp:
+with open(args.input_img, "rb") as fp:
     for w in range(args.size[0]):
         for h in range(args.size[1]):
             color = struct.unpack("B", fp.read(1))[0]
             pixels[h,w] = color
 
-im.save("conchars.png")
+im.save(args.output_chrs)
 im.close()
